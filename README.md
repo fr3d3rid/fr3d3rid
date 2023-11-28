@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frederid
 - 👀 I’m interested in  developer, cybersecurity
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cyberscurity.
+- 💞️ I’m looking to collaborate on cybersecurity
 - 📫 How to reach me ...
 
 <!---
