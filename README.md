@@ -1,7 +1,11 @@
 👋 Hola, soy Frederid.
+
 👀 Estoy interesado en desarrollador, ciberseguridad.
+
 🌱Actualmente estoy aprendiendo sobre seguridad informactica.
+
 💞️ Busco colaborar en proyecto .net, python y seguridad informatica.
+
 📫 Cómo contactarme....
 
 <!---
